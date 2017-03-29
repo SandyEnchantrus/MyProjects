@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+/*Author Santosh*/
+
 int
 main()
 {
