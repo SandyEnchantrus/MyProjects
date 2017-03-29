@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+/*Program to calculate sum of two numbers*/
+
 int
 main()
 {
