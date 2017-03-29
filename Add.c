@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /*Program to calculate sum of two numbers*/
-/*Author Santosh*/
+/*Author Santosh Kumar*/
 
 int
 main()
