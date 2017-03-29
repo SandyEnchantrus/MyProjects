@@ -1,8 +1,5 @@
 #include<stdio.h>
 
-/*Program to calculate sum of two numbers*/
-/*Author Santosh*/
-
 int
 main()
 {
@@ -11,6 +8,7 @@ main()
 	scanf("%d", &a);
 	printf(\n"Enter the value of b \n");
 	scanf("\n%d", &b);
-        printf("\n Sum of two numbers is %d\",a+b);
+	printf(\n"Enter the value of a \n");
+        printf("\n Product of two numbers is %d\",a*b);
 	return 0;
 }
